@@ -1,0 +1,16 @@
+C:\Users\S S INFOTECH\source\repos\CalculatorApp\CalculatorClass\CalculatorClass\bin\Debug\netcoreapp3.1\CalculatorClass.exe
+C:\Users\S S INFOTECH\source\repos\CalculatorApp\CalculatorClass\CalculatorClass\bin\Debug\netcoreapp3.1\CalculatorClass.deps.json
+C:\Users\S S INFOTECH\source\repos\CalculatorApp\CalculatorClass\CalculatorClass\bin\Debug\netcoreapp3.1\CalculatorClass.runtimeconfig.json
+C:\Users\S S INFOTECH\source\repos\CalculatorApp\CalculatorClass\CalculatorClass\bin\Debug\netcoreapp3.1\CalculatorClass.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\source\repos\CalculatorApp\CalculatorClass\CalculatorClass\bin\Debug\netcoreapp3.1\CalculatorClass.dll
+C:\Users\S S INFOTECH\source\repos\CalculatorApp\CalculatorClass\CalculatorClass\bin\Debug\netcoreapp3.1\CalculatorClass.pdb
+C:\Users\S S INFOTECH\source\repos\CalculatorApp\CalculatorClass\CalculatorClass\bin\Debug\netcoreapp3.1\CalcLib.dll
+C:\Users\S S INFOTECH\source\repos\CalculatorApp\CalculatorClass\CalculatorClass\bin\Debug\netcoreapp3.1\CalcLib.pdb
+C:\Users\S S INFOTECH\source\repos\CalculatorApp\CalculatorClass\CalculatorClass\obj\Debug\netcoreapp3.1\CalculatorClass.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\CalculatorApp\CalculatorClass\CalculatorClass\obj\Debug\netcoreapp3.1\CalculatorClass.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\CalculatorApp\CalculatorClass\CalculatorClass\obj\Debug\netcoreapp3.1\CalculatorClass.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\CalculatorApp\CalculatorClass\CalculatorClass\obj\Debug\netcoreapp3.1\CalculatorClass.csproj.CopyComplete
+C:\Users\S S INFOTECH\source\repos\CalculatorApp\CalculatorClass\CalculatorClass\obj\Debug\netcoreapp3.1\CalculatorClass.dll
+C:\Users\S S INFOTECH\source\repos\CalculatorApp\CalculatorClass\CalculatorClass\obj\Debug\netcoreapp3.1\CalculatorClass.pdb
+C:\Users\S S INFOTECH\source\repos\CalculatorApp\CalculatorClass\CalculatorClass\obj\Debug\netcoreapp3.1\CalculatorClass.genruntimeconfig.cache
+C:\Users\S S INFOTECH\source\repos\CalculatorApp\CalculatorClass\CalculatorClass\obj\Debug\netcoreapp3.1\CalculatorClass.csprojAssemblyReference.cache
