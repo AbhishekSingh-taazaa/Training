@@ -1,0 +1,9 @@
+C:\Traning\Day7\Day&assign\Abhishek\core\bin\Debug\netcoreapp3.1\core.deps.json
+C:\Traning\Day7\Day&assign\Abhishek\core\bin\Debug\netcoreapp3.1\core.dll
+C:\Traning\Day7\Day&assign\Abhishek\core\bin\Debug\netcoreapp3.1\core.pdb
+C:\Traning\Day7\Day&assign\Abhishek\core\obj\Debug\netcoreapp3.1\core.csprojAssemblyReference.cache
+C:\Traning\Day7\Day&assign\Abhishek\core\obj\Debug\netcoreapp3.1\core.AssemblyInfoInputs.cache
+C:\Traning\Day7\Day&assign\Abhishek\core\obj\Debug\netcoreapp3.1\core.AssemblyInfo.cs
+C:\Traning\Day7\Day&assign\Abhishek\core\obj\Debug\netcoreapp3.1\core.csproj.CoreCompileInputs.cache
+C:\Traning\Day7\Day&assign\Abhishek\core\obj\Debug\netcoreapp3.1\core.dll
+C:\Traning\Day7\Day&assign\Abhishek\core\obj\Debug\netcoreapp3.1\core.pdb
