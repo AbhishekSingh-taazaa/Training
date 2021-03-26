@@ -1,0 +1,12 @@
+C:\Traning\Day7\Delegatedemo\DelegateDemo\Clockdemo\bin\Debug\netcoreapp3.1\Clockdemo.exe
+C:\Traning\Day7\Delegatedemo\DelegateDemo\Clockdemo\bin\Debug\netcoreapp3.1\Clockdemo.deps.json
+C:\Traning\Day7\Delegatedemo\DelegateDemo\Clockdemo\bin\Debug\netcoreapp3.1\Clockdemo.runtimeconfig.json
+C:\Traning\Day7\Delegatedemo\DelegateDemo\Clockdemo\bin\Debug\netcoreapp3.1\Clockdemo.runtimeconfig.dev.json
+C:\Traning\Day7\Delegatedemo\DelegateDemo\Clockdemo\bin\Debug\netcoreapp3.1\Clockdemo.dll
+C:\Traning\Day7\Delegatedemo\DelegateDemo\Clockdemo\bin\Debug\netcoreapp3.1\Clockdemo.pdb
+C:\Traning\Day7\Delegatedemo\DelegateDemo\Clockdemo\obj\Debug\netcoreapp3.1\Clockdemo.AssemblyInfoInputs.cache
+C:\Traning\Day7\Delegatedemo\DelegateDemo\Clockdemo\obj\Debug\netcoreapp3.1\Clockdemo.AssemblyInfo.cs
+C:\Traning\Day7\Delegatedemo\DelegateDemo\Clockdemo\obj\Debug\netcoreapp3.1\Clockdemo.csproj.CoreCompileInputs.cache
+C:\Traning\Day7\Delegatedemo\DelegateDemo\Clockdemo\obj\Debug\netcoreapp3.1\Clockdemo.dll
+C:\Traning\Day7\Delegatedemo\DelegateDemo\Clockdemo\obj\Debug\netcoreapp3.1\Clockdemo.pdb
+C:\Traning\Day7\Delegatedemo\DelegateDemo\Clockdemo\obj\Debug\netcoreapp3.1\Clockdemo.genruntimeconfig.cache

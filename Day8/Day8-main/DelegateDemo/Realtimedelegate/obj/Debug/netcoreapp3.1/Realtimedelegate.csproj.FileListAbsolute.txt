@@ -1,0 +1,13 @@
+C:\Traning\Day7\Delegatedemo\DelegateDemo\Realtimedelegate\bin\Debug\netcoreapp3.1\Realtimedelegate.exe
+C:\Traning\Day7\Delegatedemo\DelegateDemo\Realtimedelegate\bin\Debug\netcoreapp3.1\Realtimedelegate.deps.json
+C:\Traning\Day7\Delegatedemo\DelegateDemo\Realtimedelegate\bin\Debug\netcoreapp3.1\Realtimedelegate.runtimeconfig.json
+C:\Traning\Day7\Delegatedemo\DelegateDemo\Realtimedelegate\bin\Debug\netcoreapp3.1\Realtimedelegate.runtimeconfig.dev.json
+C:\Traning\Day7\Delegatedemo\DelegateDemo\Realtimedelegate\bin\Debug\netcoreapp3.1\Realtimedelegate.dll
+C:\Traning\Day7\Delegatedemo\DelegateDemo\Realtimedelegate\bin\Debug\netcoreapp3.1\Realtimedelegate.pdb
+C:\Traning\Day7\Delegatedemo\DelegateDemo\Realtimedelegate\obj\Debug\netcoreapp3.1\Realtimedelegate.csprojAssemblyReference.cache
+C:\Traning\Day7\Delegatedemo\DelegateDemo\Realtimedelegate\obj\Debug\netcoreapp3.1\Realtimedelegate.AssemblyInfoInputs.cache
+C:\Traning\Day7\Delegatedemo\DelegateDemo\Realtimedelegate\obj\Debug\netcoreapp3.1\Realtimedelegate.AssemblyInfo.cs
+C:\Traning\Day7\Delegatedemo\DelegateDemo\Realtimedelegate\obj\Debug\netcoreapp3.1\Realtimedelegate.csproj.CoreCompileInputs.cache
+C:\Traning\Day7\Delegatedemo\DelegateDemo\Realtimedelegate\obj\Debug\netcoreapp3.1\Realtimedelegate.dll
+C:\Traning\Day7\Delegatedemo\DelegateDemo\Realtimedelegate\obj\Debug\netcoreapp3.1\Realtimedelegate.pdb
+C:\Traning\Day7\Delegatedemo\DelegateDemo\Realtimedelegate\obj\Debug\netcoreapp3.1\Realtimedelegate.genruntimeconfig.cache
