@@ -1,0 +1,13 @@
+C:\Users\S S INFOTECH\source\repos\EventDoing\EventDoing\bin\Debug\netcoreapp3.1\EventDoing.exe
+C:\Users\S S INFOTECH\source\repos\EventDoing\EventDoing\bin\Debug\netcoreapp3.1\EventDoing.deps.json
+C:\Users\S S INFOTECH\source\repos\EventDoing\EventDoing\bin\Debug\netcoreapp3.1\EventDoing.runtimeconfig.json
+C:\Users\S S INFOTECH\source\repos\EventDoing\EventDoing\bin\Debug\netcoreapp3.1\EventDoing.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\source\repos\EventDoing\EventDoing\bin\Debug\netcoreapp3.1\EventDoing.dll
+C:\Users\S S INFOTECH\source\repos\EventDoing\EventDoing\bin\Debug\netcoreapp3.1\EventDoing.pdb
+C:\Users\S S INFOTECH\source\repos\EventDoing\EventDoing\obj\Debug\netcoreapp3.1\EventDoing.csprojAssemblyReference.cache
+C:\Users\S S INFOTECH\source\repos\EventDoing\EventDoing\obj\Debug\netcoreapp3.1\EventDoing.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\EventDoing\EventDoing\obj\Debug\netcoreapp3.1\EventDoing.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\EventDoing\EventDoing\obj\Debug\netcoreapp3.1\EventDoing.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\EventDoing\EventDoing\obj\Debug\netcoreapp3.1\EventDoing.dll
+C:\Users\S S INFOTECH\source\repos\EventDoing\EventDoing\obj\Debug\netcoreapp3.1\EventDoing.pdb
+C:\Users\S S INFOTECH\source\repos\EventDoing\EventDoing\obj\Debug\netcoreapp3.1\EventDoing.genruntimeconfig.cache

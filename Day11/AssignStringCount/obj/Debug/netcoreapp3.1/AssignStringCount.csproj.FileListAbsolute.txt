@@ -1,0 +1,13 @@
+C:\Users\S S INFOTECH\source\repos\EventDoing\AssignStringCount\bin\Debug\netcoreapp3.1\AssignStringCount.exe
+C:\Users\S S INFOTECH\source\repos\EventDoing\AssignStringCount\bin\Debug\netcoreapp3.1\AssignStringCount.deps.json
+C:\Users\S S INFOTECH\source\repos\EventDoing\AssignStringCount\bin\Debug\netcoreapp3.1\AssignStringCount.runtimeconfig.json
+C:\Users\S S INFOTECH\source\repos\EventDoing\AssignStringCount\bin\Debug\netcoreapp3.1\AssignStringCount.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\source\repos\EventDoing\AssignStringCount\bin\Debug\netcoreapp3.1\AssignStringCount.dll
+C:\Users\S S INFOTECH\source\repos\EventDoing\AssignStringCount\bin\Debug\netcoreapp3.1\AssignStringCount.pdb
+C:\Users\S S INFOTECH\source\repos\EventDoing\AssignStringCount\obj\Debug\netcoreapp3.1\AssignStringCount.csprojAssemblyReference.cache
+C:\Users\S S INFOTECH\source\repos\EventDoing\AssignStringCount\obj\Debug\netcoreapp3.1\AssignStringCount.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\EventDoing\AssignStringCount\obj\Debug\netcoreapp3.1\AssignStringCount.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\EventDoing\AssignStringCount\obj\Debug\netcoreapp3.1\AssignStringCount.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\EventDoing\AssignStringCount\obj\Debug\netcoreapp3.1\AssignStringCount.dll
+C:\Users\S S INFOTECH\source\repos\EventDoing\AssignStringCount\obj\Debug\netcoreapp3.1\AssignStringCount.pdb
+C:\Users\S S INFOTECH\source\repos\EventDoing\AssignStringCount\obj\Debug\netcoreapp3.1\AssignStringCount.genruntimeconfig.cache

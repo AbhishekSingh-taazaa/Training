@@ -1,0 +1,13 @@
+C:\Users\S S INFOTECH\source\repos\EventDoing\GenericesDemo\bin\Debug\netcoreapp3.1\GenericesDemo.exe
+C:\Users\S S INFOTECH\source\repos\EventDoing\GenericesDemo\bin\Debug\netcoreapp3.1\GenericesDemo.deps.json
+C:\Users\S S INFOTECH\source\repos\EventDoing\GenericesDemo\bin\Debug\netcoreapp3.1\GenericesDemo.runtimeconfig.json
+C:\Users\S S INFOTECH\source\repos\EventDoing\GenericesDemo\bin\Debug\netcoreapp3.1\GenericesDemo.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\source\repos\EventDoing\GenericesDemo\bin\Debug\netcoreapp3.1\GenericesDemo.dll
+C:\Users\S S INFOTECH\source\repos\EventDoing\GenericesDemo\bin\Debug\netcoreapp3.1\GenericesDemo.pdb
+C:\Users\S S INFOTECH\source\repos\EventDoing\GenericesDemo\obj\Debug\netcoreapp3.1\GenericesDemo.csprojAssemblyReference.cache
+C:\Users\S S INFOTECH\source\repos\EventDoing\GenericesDemo\obj\Debug\netcoreapp3.1\GenericesDemo.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\EventDoing\GenericesDemo\obj\Debug\netcoreapp3.1\GenericesDemo.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\EventDoing\GenericesDemo\obj\Debug\netcoreapp3.1\GenericesDemo.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\EventDoing\GenericesDemo\obj\Debug\netcoreapp3.1\GenericesDemo.dll
+C:\Users\S S INFOTECH\source\repos\EventDoing\GenericesDemo\obj\Debug\netcoreapp3.1\GenericesDemo.pdb
+C:\Users\S S INFOTECH\source\repos\EventDoing\GenericesDemo\obj\Debug\netcoreapp3.1\GenericesDemo.genruntimeconfig.cache

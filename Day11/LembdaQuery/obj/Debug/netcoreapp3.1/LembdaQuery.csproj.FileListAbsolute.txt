@@ -1,0 +1,12 @@
+C:\Users\S S INFOTECH\source\repos\EventDoing\LembdaQuery\bin\Debug\netcoreapp3.1\LembdaQuery.exe
+C:\Users\S S INFOTECH\source\repos\EventDoing\LembdaQuery\bin\Debug\netcoreapp3.1\LembdaQuery.deps.json
+C:\Users\S S INFOTECH\source\repos\EventDoing\LembdaQuery\bin\Debug\netcoreapp3.1\LembdaQuery.runtimeconfig.json
+C:\Users\S S INFOTECH\source\repos\EventDoing\LembdaQuery\bin\Debug\netcoreapp3.1\LembdaQuery.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\source\repos\EventDoing\LembdaQuery\bin\Debug\netcoreapp3.1\LembdaQuery.dll
+C:\Users\S S INFOTECH\source\repos\EventDoing\LembdaQuery\bin\Debug\netcoreapp3.1\LembdaQuery.pdb
+C:\Users\S S INFOTECH\source\repos\EventDoing\LembdaQuery\obj\Debug\netcoreapp3.1\LembdaQuery.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\EventDoing\LembdaQuery\obj\Debug\netcoreapp3.1\LembdaQuery.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\EventDoing\LembdaQuery\obj\Debug\netcoreapp3.1\LembdaQuery.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\EventDoing\LembdaQuery\obj\Debug\netcoreapp3.1\LembdaQuery.dll
+C:\Users\S S INFOTECH\source\repos\EventDoing\LembdaQuery\obj\Debug\netcoreapp3.1\LembdaQuery.pdb
+C:\Users\S S INFOTECH\source\repos\EventDoing\LembdaQuery\obj\Debug\netcoreapp3.1\LembdaQuery.genruntimeconfig.cache
