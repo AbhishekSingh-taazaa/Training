@@ -14,7 +14,7 @@ export class TshirtdatabindingComponent implements OnInit {
   }
   h=500;
   w=500;
-  imgSource='../assets/t2.png';
+  imgSource='../assets/t2.jpg';
  
    setParameters():void{
  

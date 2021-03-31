@@ -10,11 +10,13 @@ export class AppComponent {
 
  showDataDemo=true;
  showDirectiveDemo=false;
+ showProductsTable=false;
 
  showdemo() : void{
 
  this.showDataDemo=true;
  this.showDirectiveDemo=false;
+ this.showProductsTable=false;
 
  }
 
@@ -22,6 +24,15 @@ export class AppComponent {
 
   this.showDataDemo=false;
   this.showDirectiveDemo=true;
+  this.showProductsTable=false;
+
+ }
+
+ showproducts():void{
+
+  this.showDataDemo=false;
+  this.showDirectiveDemo=false;
+  this.showProductsTable=true;
 
  }
 
