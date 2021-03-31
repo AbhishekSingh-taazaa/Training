@@ -1,0 +1,30 @@
+<div><div class="Container">
+  <div class="col-md-4"></div>
+  <div class="col-md-8"><h1>{{title}}</h1></div>
+  <div class="col-md-4"></div>
+</div>
+
+<br>
+<br>
+
+<div class="row">
+  <div class="col-md-3">
+    <button (click)='showdemo()' class="btn btn-danger">Data Binding Demo</button>
+  </div>
+<div class="col-md-3">
+<button (click)='showdirectry()' class="btn btn-warning">Structural Directive Demo</button>
+</div>
+
+</div>
+
+<hr/>
+
+<div class="row">
+<app-tshirtdatabinding *ngIf="showDataDemo" ></app-tshirtdatabinding>
+<app-structuraldirectivedemo *ngIf="showDirectiveDemo"></app-structuraldirectivedemo>
+  
+</div>
+
+</div>
+
+

@@ -1,0 +1,17 @@
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-4">
+  <input type="number" [(ngModel)]=h>
+  </div>
+  <div class="col-md-4"><input type="number" [(ngModel)]=w></div>
+  
+  </div>
+  <br>
+  <br>
+  <div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-4">
+  <img (mouseleave)='changeLeave()'  (mouseenter)='changeEnter()' [src]='imgSource' [style.height.px]='h' [style.width.px]='w'/>
+  </div>
+  <div class="col-md-2"></div>
+  </div>
