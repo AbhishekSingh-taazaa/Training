@@ -59,7 +59,7 @@ export class ProductComponent implements OnInit {
       Id :5,
       Title : "Gel",
       Price : 500,
-      ExpiryDate : "25-06-2021",
+      ExpiryDate : "02-06-2021",
       isStock : false,
       Quantity : 0
 
@@ -68,7 +68,7 @@ export class ProductComponent implements OnInit {
       Id :6,
       Title : "Cardboard",
       Price : 220,
-      ExpiryDate : "30-12-2022",
+      ExpiryDate : "11-12-2022",
       isStock : true,
       Quantity : 80
 

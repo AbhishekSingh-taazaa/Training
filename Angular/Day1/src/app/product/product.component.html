@@ -16,8 +16,8 @@
 
         <td>{{p.Id}}</td>
         <td>{{p.Title}}</td>
-        <td>{{p.Price}}</td>
-        <td>{{p.ExpiryDate}}</td>
+        <td>{{p.Price | currency : 'INR'}}</td>
+        <td>{{p.ExpiryDate | date}}</td>
         <td>{{p.Quantity}}</td>
         <td>
             <ng-container *ngIf="p.isStock;then avilable else unavilabe"></ng-container>
