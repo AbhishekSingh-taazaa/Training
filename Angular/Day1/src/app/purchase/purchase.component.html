@@ -1,0 +1,36 @@
+<!-- <div class="text-center"><h1>Purchase Details</h1></div> -->
+
+<!-- <div class="col-md-4"></div> -->
+
+<div class="col-md-12">
+    <mat-accordion class="example-headers-align" >
+        <mat-expansion-panel 
+           *ngFor="let i of IItem">
+          <mat-expansion-panel-header>
+            <mat-panel-title>
+              <h2>{{i.PId}}</h2>
+            </mat-panel-title>
+            <mat-panel-description>
+              <h2 class="text-success">{{i.PName}}</h2>
+            </mat-panel-description>
+          </mat-expansion-panel-header>
+         <app-purchase-order [Purchaseitem]='i'></app-purchase-order>
+        </mat-expansion-panel>
+       
+           
+      </mat-accordion>
+    
+<!-- <table class="table">
+    <thead>
+        <th>Purchase ID</th>
+        <th>Purchase Name</th>
+    </thead>
+    <tbody>
+        <tr *ngFor="let i of IItem">
+            <td>{{i.PId}}</td>
+            <td><a  href="abc.com" >{{i.PName}}</a></td>
+        </tr>
+    </tbody>
+</table> -->
+
+</div>

@@ -11,12 +11,16 @@ export class AppComponent {
  showDataDemo=true;
  showDirectiveDemo=false;
  showProductsTable=false;
+ showPuschase=false;
+
 
  showdemo() : void{
 
  this.showDataDemo=true;
  this.showDirectiveDemo=false;
  this.showProductsTable=false;
+ this.showPuschase=false;
+
 
  }
 
@@ -25,6 +29,8 @@ export class AppComponent {
   this.showDataDemo=false;
   this.showDirectiveDemo=true;
   this.showProductsTable=false;
+  this.showPuschase=false;
+ 
 
  }
 
@@ -33,6 +39,17 @@ export class AppComponent {
   this.showDataDemo=false;
   this.showDirectiveDemo=false;
   this.showProductsTable=true;
+  this.showPuschase=false;
+
+
+ }
+ showMaster():void{
+
+  this.showDataDemo=false;
+  this.showDirectiveDemo=false;
+  this.showPuschase=true;
+  
+  this.showProductsTable=false;
 
  }
 

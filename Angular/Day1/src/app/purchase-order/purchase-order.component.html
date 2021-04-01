@@ -1,0 +1,29 @@
+<div>
+<h1>{{Purchaseitem.PName}}</h1>
+<p class="lead">Vendor : {{Purchaseitem.Vname}} | Purchase Date : {{Purchaseitem.PDate | date}}</p>
+<hr class="my-4">
+<div class="text-center">
+
+    <table class="table table-dark">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor = "let ii of Purchaseitem.Item ">
+                <td>{{ii.Title}}</td>
+                <td>{{ii.Price}}</td>
+            </tr>
+        </tbody>
+    </table>
+
+</div>
+<p class="lead">
+
+    <a class="btn pull-right btn-success" href="#" role="button">Total Cost {{price}},Place Order</a>
+</p>
+
+
+</div>

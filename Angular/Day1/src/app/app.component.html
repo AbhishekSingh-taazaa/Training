@@ -16,21 +16,23 @@
 <button (click)='showdirectry()' class="btn btn-warning">Structural Directive Demo</button>
 </div>
 <div class="col-md-2">
-  <button (click)='showproducts()' class="btn btn-danger">Products List</button>
+  <button (click)='showproducts()' class="btn btn-success">Products List</button>
   </div>
-  <div class="col-md-2"></div>
+  <div class="col-md-2"><button (click)='showMaster()' class="btn btn-info">Master Details</button></div>
 </div>
 
 <hr/>
 
 <div class="row">
-  <div class="col-md-2"></div>
-  <div class="col-md-8">
+  <div class="col-md-1"></div>
+  <div class="col-md-10">
 <app-tshirtdatabinding *ngIf="showDataDemo" ></app-tshirtdatabinding>
 <app-structuraldirectivedemo *ngIf="showDirectiveDemo"></app-structuraldirectivedemo>
 <app-product *ngIf="showProductsTable"></app-product>
+<app-purchase *ngIf= "showPuschase"></app-purchase>
+
 </div>
-<div class="col-md-2"></div>
+<div class="col-md-1"></div>
   
 </div>
 

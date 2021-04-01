@@ -9,7 +9,7 @@ import { Iproduct } from './IProduct';
 })
 export class ProductComponent implements OnInit {
 
-  products : Iproduct[] = [];
+ public products : Iproduct[] = [];
   constructor() { }
 
   ngOnInit(): void {
