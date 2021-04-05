@@ -12,6 +12,8 @@ export class AppComponent {
  showDirectiveDemo=false;
  showProductsTable=false;
  showPuschase=false;
+ showchild1=false;
+ showchild2=false;
 
 
  showdemo() : void{
@@ -50,6 +52,12 @@ export class AppComponent {
   this.showPuschase=true;
   
   this.showProductsTable=false;
+
+ }
+
+ showsahredata(){
+  this.showchild1=true;
+  this.showchild2=true;
 
  }
 

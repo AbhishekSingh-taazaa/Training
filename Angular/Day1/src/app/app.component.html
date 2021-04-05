@@ -1,40 +1,56 @@
-<div class="Container">
-  
-  <div class="text-center"><h1>{{title}}</h1></div>
- 
-</div>
 
-<br>
-<br>
 
-<div class="row">
-  <div class="col-md-2"></div>
-  <div class="col-md-3">
-    <button (click)='showdemo()' class="btn btn-danger">Data Binding Demo</button>
+<nav class="navbar navbar-expand-lg navbar navbar-light " appAttributedirect style="background-color: #09b838;">
+  <a class="navbar-brand" href="#">
+    <img src='../assets/angularimg.png' height="60px" width="60px" class="d-inline-block align-top" alt="">
+   
+  </a>
+  <a class="navbar-brand" routerLink=''><p class="font-weight-normal">Abhishek Singh</p></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link " routerLink='/T-shirt'><p class="font-weight-normal">Data-Binding </p> <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" routerLink='/Product-store'><p class="font-weight-normal">Product</p></a>
+      </li>
+      <li class="nav-item">
+          <a class="nav-link" routerLink='/Purchase-Details'><p class="font-weight-normal">Master-Details</p></a>
+        </li>
+     
+      <li class="nav-item">
+        <a class="nav-link " routerLink='/Attribute'><p class="font-weight-normal">Attribute Directive</p></a>
+      </li>
+      <li class="nav-item">
+          <a class="nav-link "  routerLink='/ShareData'><p class="font-weight-normal">Data Sharing</p></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link " routerLink='/Globalerror'><p class="font-weight-normal">Global Error Handler</p></a>
+        </li>
+    </ul>
+   
   </div>
-<div class="col-md-3">
-<button (click)='showdirectry()' class="btn btn-warning">Structural Directive Demo</button>
-</div>
-<div class="col-md-2">
-  <button (click)='showproducts()' class="btn btn-success">Products List</button>
-  </div>
-  <div class="col-md-2"><button (click)='showMaster()' class="btn btn-info">Master Details</button></div>
-</div>
+</nav>
 
-<hr/>
+<br/>
+<br/>
 
-<div class="row">
-  <div class="col-md-1"></div>
-  <div class="col-md-10">
-<app-tshirtdatabinding *ngIf="showDataDemo" ></app-tshirtdatabinding>
-<app-structuraldirectivedemo *ngIf="showDirectiveDemo"></app-structuraldirectivedemo>
-<app-product *ngIf="showProductsTable"></app-product>
-<app-purchase *ngIf= "showPuschase"></app-purchase>
+<router-outlet></router-outlet>
 
-</div>
-<div class="col-md-1"></div>
+
+
+
+
+
+
+
   
-</div>
+
+
 
 
 

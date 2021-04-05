@@ -1,11 +1,22 @@
 <div class="Container">
  
  <div class="row">
+  <!-- <form>
+    <div class="row">
+      <div class="col">
+        <input type="number" class="form-control" placeholder="First name"  [(ngModel)]=h>
+      </div>
+      <div class="col">
+        <input type="number" class="form-control" placeholder="Last name" [(ngModel)]=w>
+      </div>
+    </div>
+  </form> -->
   
    <div class="col-md-3"></div>
-   <div class="col-md-4"><input type="number" [(ngModel)]=h></div> 
+   
+   <div class="col-md-2"> <span class="input-group-text" style="background-color: #2bed5f;" id="basic-addon1">Height</span><input type="number" class="form-control" placeholder="Enter Height" [(ngModel)]=h></div> 
 
- <div class="col-md-4"> <input type="number" [(ngModel)]=w></div>
+ <div class="col-md-2"> <span class="input-group-text" style="background-color: #2bed5f;" id="basic-addon1">Width</span> <input type="number" class="form-control" placeholder="Enter Width" [(ngModel)]=w></div>
  <div class="col-md-3"></div>
 </div>
 
@@ -15,7 +26,8 @@
   <div class="col-md-3"></div>
   <div class="col-md-6">
    
-  <img  (mouseenter)='changeEnter()' (mouseleave)='changeLeave()' [src]='imgSource' [style.height.px]='h' [style.width.px]='w'/>
+  <img   appAttributedirect (mouseenter)='changeEnter()' (mouseleave)='changeLeave()'  [src]='imgSource' [style.height.px]='h' [style.width.px]='w'/>
+ 
   <div class="col-md-3"></div>
 </div>
 </div>

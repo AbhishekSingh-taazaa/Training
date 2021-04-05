@@ -9,6 +9,7 @@ export class StructuraldirectivedemoComponent implements OnInit {
 
   constructor() { }
 
+  c : string;
   ngOnInit(): void {
   }
 
