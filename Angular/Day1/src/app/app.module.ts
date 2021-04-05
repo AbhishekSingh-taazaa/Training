@@ -16,7 +16,6 @@ import { LogService } from './log.service';
 import { Child1Component } from './child1/child1.component';
 import { Child2Component } from './child2/child2.component';
 import { Share2compoComponent } from './share2compo/share2compo.component';
-import { MaterialTableProductComponent } from './material-table-product/material-table-product.component';
 import { AttributedirectDirective } from './attributedirect.directive';
 import { GlobalErrorComponent } from './global-error/global-error.component';
 import { HomeComponent } from './home/home.component';
@@ -33,7 +32,6 @@ import { NewdirectiveDirective } from './newdirective.directive';
     Child1Component,
     Child2Component,
     Share2compoComponent,
-    MaterialTableProductComponent,
     AttributedirectDirective,
     GlobalErrorComponent,
     HomeComponent,
