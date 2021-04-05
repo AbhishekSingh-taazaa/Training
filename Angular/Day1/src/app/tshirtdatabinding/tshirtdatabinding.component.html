@@ -26,9 +26,22 @@
   <div class="col-md-3"></div>
   <div class="col-md-6">
    
-  <img   appAttributedirect (mouseenter)='changeEnter()' (mouseleave)='changeLeave()'  [src]='imgSource' [style.height.px]='h' [style.width.px]='w'/>
+  <img    (mouseenter)='changeEnter()' (mouseleave)='changeLeave()'   [src]='imgSource' [style.height.px]='h' [style.width.px]='w'/>
  
   <div class="col-md-3"></div>
 </div>
+</div>
+
+
+<div class="row"> 
+
+  <footer class="text-center text-lg-start" style="background-color: #09b838;">
+ 
+    <div class="text-center p-3 font-weight-bold" style="background-color: rgba(0, 0, 0, 0.2);">
+      NOTE: This is an example of Data Binding where we have provided two input fields for entering height and width of an image
+      by entering the dimension the size of image will change accordingly, also when we hover the curson on image, a new image will be visible
+    </div>
+
+  </footer>
 </div>
 </div>

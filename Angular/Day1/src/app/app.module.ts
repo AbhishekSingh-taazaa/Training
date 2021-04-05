@@ -20,6 +20,7 @@ import { MaterialTableProductComponent } from './material-table-product/material
 import { AttributedirectDirective } from './attributedirect.directive';
 import { GlobalErrorComponent } from './global-error/global-error.component';
 import { HomeComponent } from './home/home.component';
+import { NewdirectiveDirective } from './newdirective.directive';
 
 @NgModule({
   declarations: [
@@ -35,7 +36,8 @@ import { HomeComponent } from './home/home.component';
     MaterialTableProductComponent,
     AttributedirectDirective,
     GlobalErrorComponent,
-    HomeComponent
+    HomeComponent,
+    NewdirectiveDirective
   ],
   imports: [
     BrowserModule,
