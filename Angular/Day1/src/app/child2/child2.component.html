@@ -1,11 +1,42 @@
-
-<div class="container" style="border: 3px solid #000000;">
+<h1 class="text-center">Component 2</h1>
+<div class="container" >
     
-    <h2>ID : {{product.Id}}</h2>
-   <h2 >Title : {{product.Title}}</h2>
-   <h2>Price : {{product.Price}}</h2>
-   <h2 >Expiry Date : {{product.ExpiryDate | date}}</h2>
-   <h2>Quantity : {{product.Quantity}}</h2>
-   <h2 >Instock : {{product.isStock}}</h2>
+   
+
+<table class="table" style="border: solid 3px;">
+    <thead style="background-color: #b86c09">
+        <tr>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Price</td>
+            <td>Expiry Date</td>
+            <td>Quantity</td>
+            <td>Instock</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>{{product.Id}}</td>
+            <td>
+                {{product.Title}}
+            </td>
+            <td>
+                {{product.Price}}
+            </td>
+            <td>
+                {{product.ExpiryDate | date}}
+            </td>
+            <td>
+                {{product.Quantity}}
+
+            </td>
+            <td>
+                {{product.isStock}}
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 </div>
+
 

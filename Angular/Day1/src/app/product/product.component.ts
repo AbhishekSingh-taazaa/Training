@@ -10,6 +10,9 @@ import { Iproduct } from './IProduct';
 })
 export class ProductComponent implements OnInit {
 
+  titlesearch:string;
+  pricesearch:number;
+
  public products : Iproduct[] = [];
   constructor(private dataservice : DataService) { }
 

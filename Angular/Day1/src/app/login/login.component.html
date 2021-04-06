@@ -1,0 +1,63 @@
+<div class="container">
+
+    <form (ngSubmit)='login()' [formGroup]='loginForm' novalidate class="form">
+        <div class="form-group">
+          <label for="exampleInputEmail1">Email address</label>
+          <input
+          formControlName='email'
+          type="text"
+           class="form-control" 
+            aria-describedby="emailHelp"
+             placeholder="Enter email">
+          <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+          <div class="alert alert-danger" *ngIf="loginForm?.get('email')?.hasError('required') && loginForm?.get('email')?.touched">Email is required !!!</div>
+        </div>
+        <div class="form-group">
+          <label for="exampleInputPassword1">Password</label>
+          <input
+          formControlName='password'
+          type="password" 
+          class="form-control" 
+           placeholder="Password">
+           <div class="alert alert-danger" *ngIf="!loginForm?.get('password')?.valid && loginForm?.get('password')?.touched">Passsword is required and greater than five chracters !!!</div>
+
+        </div>
+        <div class="form-group">
+            <label for="exampleInputPassword1">Age</label>
+            <input
+            formControlName='age'
+            type="number" 
+            class="form-control" 
+             placeholder="Enter age">
+             <div class="alert alert-danger" *ngIf="loginForm?.get('age')?.dirty && loginForm?.get('age')?.errors && loginForm?.get('age')?.errors?.myageRange">Age should be between {{min}} --- {{max}} !!!</div>
+  
+          </div>
+
+          <div class="form-group">
+            <label for="exampleInputPassword1">Phone Number</label>
+            <input
+            formControlName='phonenumber'
+            type="number" 
+            class="form-control" 
+             placeholder="Enter number">
+             <div class="alert alert-danger" *ngIf="loginForm?.get('phonenumber')?.hasError('required') && loginForm?.get('phonenumber')?.touched">Phone number is required !!!</div>
+  
+          </div>
+
+          <div class="form-group">
+              <label class="control-label">Send Notification</label>
+              <br>
+              <br>
+              <label class="radio-inline">
+                  <input type="radio" value="email" formControlName="notification">Email
+              </label>
+              <label class="radio-inline">
+                <input type="radio" value="phone" formControlName="notification">Phone
+            </label>
+          </div>
+       
+        <button type="submit" [disabled]='loginForm.invalid' class="btn btn-primary">Submit</button>
+        <button type="reset"  class="btn btn-success">Reset</button>
+      </form>
+
+</div>

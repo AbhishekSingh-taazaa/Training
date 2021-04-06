@@ -1,5 +1,5 @@
 import { ErrorHandler, NgModule } from '@angular/core';
-import { FormsModule } from '@angular/forms';
+import { FormsModule ,ReactiveFormsModule} from '@angular/forms';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
@@ -20,6 +20,10 @@ import { AttributedirectDirective } from './attributedirect.directive';
 import { GlobalErrorComponent } from './global-error/global-error.component';
 import { HomeComponent } from './home/home.component';
 import { NewdirectiveDirective } from './newdirective.directive';
+import { LoginComponent } from './login/login.component';
+import { SearchpipePipe } from './searchpipe.pipe';
+import { PricepipePipe } from './pricepipe.pipe';
+import { SignupdemoComponent } from './signupdemo/signupdemo.component';
 
 @NgModule({
   declarations: [
@@ -35,12 +39,16 @@ import { NewdirectiveDirective } from './newdirective.directive';
     AttributedirectDirective,
     GlobalErrorComponent,
     HomeComponent,
-    NewdirectiveDirective
+    NewdirectiveDirective,
+    LoginComponent,
+    SearchpipePipe,
+    PricepipePipe,
+    SignupdemoComponent
   ],
   imports: [
     BrowserModule,
     FormsModule,AppRoutingModule,
-    BrowserAnimationsModule,MatExpansionModule
+    BrowserAnimationsModule,MatExpansionModule,ReactiveFormsModule
 
   ],
   providers: [{provide:ErrorHandler,useClass:MyErrorHandlerService}],

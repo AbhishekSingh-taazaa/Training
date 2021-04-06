@@ -4,9 +4,11 @@ import { AppComponent } from './app.component';
 import { Child1Component } from './child1/child1.component';
 import { GlobalErrorComponent } from './global-error/global-error.component';
 import { HomeComponent } from './home/home.component';
+import { LoginComponent } from './login/login.component';
 import { ProductComponent } from './product/product.component';
 import { PurchaseComponent } from './purchase/purchase.component';
 import { Share2compoComponent } from './share2compo/share2compo.component';
+import { SignupdemoComponent } from './signupdemo/signupdemo.component';
 import { StructuraldirectivedemoComponent } from './structuraldirectivedemo/structuraldirectivedemo.component';
 import { TshirtdatabindingComponent } from './tshirtdatabinding/tshirtdatabinding.component';
 
@@ -41,7 +43,15 @@ import { TshirtdatabindingComponent } from './tshirtdatabinding/tshirtdatabindin
             {
                 path: 'Globalerror',
                 component: GlobalErrorComponent,
-            }     
+            }  ,
+            {
+                path: 'Login',
+                component: LoginComponent,
+            }  ,
+            {
+                path: 'Signupdemo',
+                component: SignupdemoComponent,
+            }  
     ];
 
     @NgModule({

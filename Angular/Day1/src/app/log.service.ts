@@ -20,6 +20,7 @@ export class LogService {
     Quantity : 50
 
 
+    
   };
 
   Pinr : BehaviorSubject<Iproduct>;
@@ -53,5 +54,13 @@ export class LogService {
     this.product.Price = price;
     this.Pinr.next(this.product);
 
+   }
+
+   updateProduct(p : Iproduct){
+
+    this.product = {
+      ...p
+    }
+    this.Pinr.next(this.product);
    }
 }
