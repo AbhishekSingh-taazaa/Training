@@ -7,9 +7,14 @@ import { HomeComponent } from './home/home.component';
 import { LoginComponent } from './login/login.component';
 import { ProductComponent } from './product/product.component';
 import { PurchaseComponent } from './purchase/purchase.component';
+import { RxjsallComponent } from './rxjsall/rxjsall.component';
 import { Share2compoComponent } from './share2compo/share2compo.component';
 import { SignupdemoComponent } from './signupdemo/signupdemo.component';
 import { StructuraldirectivedemoComponent } from './structuraldirectivedemo/structuraldirectivedemo.component';
+import { SubjectasynccompComponent } from './subjectasynccomp/subjectasynccomp.component';
+import { SubjectbehavecompComponent } from './subjectbehavecomp/subjectbehavecomp.component';
+import { SubjectcompComponent } from './subjectcomp/subjectcomp.component';
+import { SubjectreplaycompComponent } from './subjectreplaycomp/subjectreplaycomp.component';
 import { TshirtdatabindingComponent } from './tshirtdatabinding/tshirtdatabinding.component';
 
     const routes: Routes = [
@@ -51,8 +56,33 @@ import { TshirtdatabindingComponent } from './tshirtdatabinding/tshirtdatabindin
             {
                 path: 'Signupdemo',
                 component: SignupdemoComponent,
-            }  
+            },
+            {
+                path: 'RxjsSubject',
+                component: RxjsallComponent,
+                children: [
+                    {
+                      path: 'subject', 
+                      component: SubjectcompComponent,
+                    },
+                    {
+                      path: 'subjectbehaviour',
+                      component: SubjectbehavecompComponent, 
+                    },
+                    {
+                        path: 'subjectasync',
+                        component: SubjectasynccompComponent, 
+                      },
+                      {
+                        path: 'subjectreplay',
+                        component: SubjectreplaycompComponent, 
+                      }
+                  ],
+            }   
     ];
+
+
+   
 
     @NgModule({
         imports: [

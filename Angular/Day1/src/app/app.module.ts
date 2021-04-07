@@ -1,7 +1,7 @@
 import { ErrorHandler, NgModule } from '@angular/core';
 import { FormsModule ,ReactiveFormsModule} from '@angular/forms';
 import { BrowserModule } from '@angular/platform-browser';
-
+import {MatTableModule} from '@angular/material/table';
 import { AppComponent } from './app.component';
 import { TshirtdatabindingComponent } from './tshirtdatabinding/tshirtdatabinding.component';
 import { StructuraldirectivedemoComponent } from './structuraldirectivedemo/structuraldirectivedemo.component';
@@ -24,6 +24,11 @@ import { LoginComponent } from './login/login.component';
 import { SearchpipePipe } from './searchpipe.pipe';
 import { PricepipePipe } from './pricepipe.pipe';
 import { SignupdemoComponent } from './signupdemo/signupdemo.component';
+import { SubjectcompComponent } from './subjectcomp/subjectcomp.component';
+import { SubjectbehavecompComponent } from './subjectbehavecomp/subjectbehavecomp.component';
+import { SubjectasynccompComponent } from './subjectasynccomp/subjectasynccomp.component';
+import { SubjectreplaycompComponent } from './subjectreplaycomp/subjectreplaycomp.component';
+import { RxjsallComponent } from './rxjsall/rxjsall.component';
 
 @NgModule({
   declarations: [
@@ -43,12 +48,18 @@ import { SignupdemoComponent } from './signupdemo/signupdemo.component';
     LoginComponent,
     SearchpipePipe,
     PricepipePipe,
-    SignupdemoComponent
+    SignupdemoComponent,
+    SubjectcompComponent,
+    SubjectbehavecompComponent,
+    SubjectasynccompComponent,
+    SubjectreplaycompComponent,
+    RxjsallComponent
   ],
   imports: [
     BrowserModule,
     FormsModule,AppRoutingModule,
-    BrowserAnimationsModule,MatExpansionModule,ReactiveFormsModule
+    BrowserAnimationsModule,MatExpansionModule,ReactiveFormsModule,
+    MatTableModule
 
   ],
   providers: [{provide:ErrorHandler,useClass:MyErrorHandlerService}],
